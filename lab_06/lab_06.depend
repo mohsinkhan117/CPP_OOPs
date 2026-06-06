@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1760688230 source:c:\users\m mohsin khan\desktop\lab_06\main.cpp
+	<iostream>
+
+1760689935 source:c:\users\m mohsin khan\desktop\lab_06\task_02.cpp
+	<bits/stdc++.h>
+
